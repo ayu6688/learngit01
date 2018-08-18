@@ -12,3 +12,5 @@ create a new branch a
 fixed conflict
 
 hi I come in
+
+git is a free software
