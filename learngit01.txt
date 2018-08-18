@@ -11,6 +11,6 @@ create a new branch a
 
 fixed conflict
 
-hi I come in
+Hi I come in
 
 git is a free software
