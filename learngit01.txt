@@ -10,3 +10,5 @@ new a branch A
 create a new branch a
 
 fixed conflict
+
+hi I come in
