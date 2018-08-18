@@ -5,4 +5,10 @@ thanck you xixihaha oo
 
 well you are smart
 
+<<<<<<< HEAD
 new a branch A
+=======
+create a new branch a
+>>>>>>> feature1
+
+fixed conflict
